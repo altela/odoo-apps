@@ -24,6 +24,8 @@ class TrackFieldsInventory(models.Model):
 
     # Sales
     description_sale = fields.Text(string='Sale Description', track_visibility='always')
+    available_in_pos = fields.Boolean(string='Available in PoS', track_visibility='always')
+    to_weight = fields.Boolean(string='To Weigh With Scale', track_visibility='always')
 
     # Vendor
     description_purchase = fields.Text(string='Description for Vendors', track_visibility='always')
