@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'Inventory : Track Changes of Field Value',
+    'name': 'Edit History of Inventory',
     'author': 'Altela Eleviansyah Pramardhika',
     'version': '12.0.1.0.0',
-    'summary': 'Tracking Changes of Odoo Inventory Fields into Chatter or Logs',
+    'summary': 'Create history into chatter after editing inventory',
     'license': 'LGPL-3',
     'sequence': 1,
-    'description': """Tracking Changes of Odoo Fields into Chatter or Logs""",
+    'description': """Create history into chatter after editing inventory""",
     'category': 'Extra Tools',
     'website': 'https://altela.my.id',
     'depends': [
