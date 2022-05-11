@@ -3,7 +3,7 @@
 {
     'name': 'Edit History of Inventory',
     'author': 'Altela Eleviansyah Pramardhika',
-    'version': '12.0.1.0.0',
+    'version': '13.0.1.0.0',
     'summary': 'Create history into chatter after editing inventory',
     'license': 'LGPL-3',
     'sequence': 1,
