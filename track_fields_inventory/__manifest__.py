@@ -16,9 +16,9 @@
     # 'data': [
     #     'views/stock_adjustment_rename.xml'
     # ],
-    # 'images': [
-    #     'static/description/banner.jpg',
-    # ],
+    'images': [
+        'static/description/banner.jpg',
+    ],
     'demo': [],
     'qweb': [],
     'installable': True,
