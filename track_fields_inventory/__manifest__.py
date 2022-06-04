@@ -9,7 +9,7 @@
     'sequence': 1,
     'description': """Create history into chatter after editing inventory""",
     'category': 'Extra Tools',
-    'website': 'https://altela.my.id',
+    'website': 'https://www.altela.net',
     'depends': [
         'stock',
     ],
