@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Show Edit History of Inventory',
-    'author': 'Altela Eleviansyah Pramardhika',
+    'author': 'Altela Softwares',
     'version': '15.0.1.0.0',
     'summary': 'Create history into chatter after editing inventory',
     'license': 'LGPL-3',
