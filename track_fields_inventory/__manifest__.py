@@ -14,7 +14,7 @@
         'stock',
     ],
     'images': [
-        'static/description/banner.jpg',
+        'static/description/banner.gif',
     ],
     'demo': [],
     'qweb': [],
