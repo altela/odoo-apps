@@ -21,12 +21,12 @@
     'data': [
         # 'security/security.xml',
         # 'security/ir.model.access.csv',
-        'views/clear_order_lines.xml'
+        'views/clear_order_lines_so.xml',
+        'wizard/clear_so_wizard.xml'
     ],
     'demo': [],
     'qweb': [],
     'installable': True,
     'application': False,
     'auto_install': False,
-    'pre_init_hook': 'pre_init_check',
 }
