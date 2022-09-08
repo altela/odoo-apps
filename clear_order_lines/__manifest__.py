@@ -22,7 +22,9 @@
         # 'security/security.xml',
         # 'security/ir.model.access.csv',
         'views/clear_order_lines_so.xml',
-        'wizard/clear_so_wizard.xml'
+        'views/clear_order_lines_po.xml',
+        'wizard/clear_so_wizard.xml',
+        'wizard/clear_po_wizard.xml',
     ],
     'demo': [],
     'qweb': [],
