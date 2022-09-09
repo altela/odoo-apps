@@ -3,7 +3,7 @@
 {
     'name': 'Clear Order Lines',
     'author': 'Altela Softwares',
-    'version': '14.0.1.0.0',
+    'version': '15.0.1.0.0',
     'summary': 'Clear Order Lines inside The Sales and Purchase Order',
     'license': 'LGPL-3',
     'sequence': 1,
