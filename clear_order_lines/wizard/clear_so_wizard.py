@@ -2,10 +2,10 @@ from odoo import api, models, fields
 
 class ClearSoWizard(models.TransientModel):
     _name = "clear.order.lines.so"
-    _inherit = "sale.order.line"
 
     order_line = fields.One2many('sale.order.line', 'product_id')
 
+    @api.multi
     def clear_order_lines(self):
         records = self.env['sale.order'].browse(self._context.get('active_ids', []))
         for record in records:
