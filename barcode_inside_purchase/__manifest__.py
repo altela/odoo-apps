@@ -11,12 +11,13 @@
     'category': 'Extra Tools',
     'website': 'https://www.altela.net',
     'depends': [
-        'stock',
+        'purchase',
     ],
     # 'images': [
     #     'static/description/assets/banner.gif',
     # ],
     'data': [
+        'security/ir.model.access.csv',
         'views/barcode_inside_purchase.xml',
     ],
     'demo': [],
