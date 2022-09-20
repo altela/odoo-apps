@@ -14,7 +14,7 @@
         'purchase',
     ],
     'images': [
-        'static/description/assets/banner.png',
+        'static/description/banner.png',
     ],
     'data': [
         'security/ir.model.access.csv',
