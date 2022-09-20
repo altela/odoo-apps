@@ -13,9 +13,9 @@
     'depends': [
         'purchase',
     ],
-    # 'images': [
-    #     'static/description/assets/banner.gif',
-    # ],
+    'images': [
+        'static/description/assets/banner.png',
+    ],
     'data': [
         'security/ir.model.access.csv',
         'views/barcode_inside_purchase.xml',
