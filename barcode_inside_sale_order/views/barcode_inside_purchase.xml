@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record model="ir.ui.view" id="barcode_inside_sale_order">
+            <field name="name">barcode.inside.sale_order</field>
+            <field name="model">sale.order</field>
+            <field name="inherit_id" ref="sale.view_order_form"/>
+                <field name="arch" type="xml">
+                    <xpath expr="//field[@name='order_line']/tree/field[@name='product_id']" position="after">
+                         <field name="barcode" string="Barcode"/>
+                    </xpath>
+                </field>
+        </record>
+    </data>
+</odoo>
