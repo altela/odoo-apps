@@ -2,8 +2,8 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Clear Order Lines',
-    'author': 'Altela Softwares',
-    'version': '13.0.1.0.0',
+    'author': 'Central Jayatama Abadi',
+    'version': '13.0.2.0.0',
     'summary': 'Clear Order Lines inside The Sales and Purchase Order',
     'license': 'LGPL-3',
     'sequence': 1,

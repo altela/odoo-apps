@@ -25,7 +25,7 @@
 
         <record id="clear_order_lines_sales_order_action" model="ir.actions.act_window">
             <field name="name">Clear Order Lines Sales Order</field>
-            <field name="res_model">clear.order.lines.so</field>
+            <field name="res_model">clear.order.lines.po</field>
             <field name="view_mode">form</field>
             <field name="target">new</field>
         </record>
