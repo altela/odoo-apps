@@ -14,7 +14,7 @@
                     </group>
 
                      <footer>
-                         <button string="Clear Order Lines" type="object" name="clear_order_lines" />
+                         <button string="Clear Order Lines" type="object" name="clear_order_lines_so" />
                          <button string="Cancel" special="cancel" class="btn btn-secondary" />
                      </footer>
                  </form>
