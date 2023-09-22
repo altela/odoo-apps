@@ -2,14 +2,14 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Clear Order Lines',
-    'author': 'Altela Softwares',
+    'author': 'Altela Software',
     'version': '13.0.2.0.0',
     'summary': 'Clear Order Lines inside The Sales and Purchase Order',
     'license': 'LGPL-3',
     'sequence': 1,
     'description': """Clear Order Lines inside The Sales and Purchase Order""",
     'category': 'Extra Tools',
-    'website': 'https://www.altela.net',
+    'website': 'https://www.altelasoftware.com',
     'depends': [
         'sale_management',
         'purchase',
